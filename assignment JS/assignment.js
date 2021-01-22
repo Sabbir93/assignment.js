@@ -1,3 +1,6 @@
+// https://github.com/Sabbir93/assignment.js
+
+
 // Kilometer To Meter Convert 
 function kiloMeterToMeter(kiloMeter) {
     var meter = 1000;
@@ -9,6 +12,8 @@ function kiloMeterToMeter(kiloMeter) {
     }
     return totalMeter;
 }
+
+
 
 // Bugdet Calculaton
 function budgetCalculator(watch, phone, laptop) {
@@ -27,6 +32,8 @@ function budgetCalculator(watch, phone, laptop) {
     }
     return totalCost;
 }
+
+
 
 // Hotel Cost Calculation
 ffunction hotelCost (day) {
@@ -51,6 +58,8 @@ ffunction hotelCost (day) {
     }
     return totalCost;
 }
+
+
 
 // Mega Friend Calculation
 function megaFriend("Rumman","Ali Zafar","Rahman Khan","Muhammad Rahman"){
